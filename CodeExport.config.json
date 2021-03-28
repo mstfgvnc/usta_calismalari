@@ -1,0 +1,16 @@
+{
+	"Module Paths": {
+		"Sayfa1": "Sayfa1.cls",
+		"Module1": "Module1.bas",
+		"Sayfa4": "Sayfa4.cls"
+	},
+	"References": [
+		{
+			"Name": "MSACAL",
+			"Description": "Microsoft Calendar Control 2007",
+			"GUID": "{8E27C92E-1264-101C-8A2F-040224009C02}",
+			"Major": 7,
+			"Minor": 0
+		}
+	]
+}
